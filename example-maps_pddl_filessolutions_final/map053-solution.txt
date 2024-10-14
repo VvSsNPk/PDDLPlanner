@@ -1,0 +1,6 @@
+walk east
+walk south
+walk south
+walk east
+jump south
+jump south
